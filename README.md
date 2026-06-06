@@ -16,7 +16,6 @@ A modern and responsive Notes Application built with React.js that allows users 
 
 * React.js
 * JavaScript (ES6+)
-* HTML5
 * CSS3 / Tailwind CSS
 * REST API
 * Axios / Fetch API
