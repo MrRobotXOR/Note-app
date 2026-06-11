@@ -1,6 +1,6 @@
 #  Notes App
 
-A modern and responsive Notes Application built with React.js that allows users to create, manage, update, and delete notes efficiently. This project demonstrates the use of React components, hooks, state management, and API integration for handling note data.
+A modern and responsive Notes Application built with React.js that allows users to create, manage and delete notes efficiently. This project demonstrates the use of React components, hooks, state management, and API integration for handling note data.
 
 ## Features
 
